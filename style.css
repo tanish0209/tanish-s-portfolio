@@ -1356,6 +1356,10 @@ nav {
     align-items: center;
     justify-content: center;
   }
+  .contact > h2 {
+    margin: 10px 0;
+    font-size: 3rem;
+  }
   .card p {
     font-size: 1rem;
   }
