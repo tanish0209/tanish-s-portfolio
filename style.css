@@ -166,7 +166,7 @@ nav {
   align-items: center;
 }
 .frontend {
-  width: 430px;
+  width: 380px;
   height: 470px;
   border: 3px solid white;
   border-radius: 12px;
@@ -205,13 +205,13 @@ nav {
   margin-bottom: 10px;
 }
 .backend {
-  width: 430px;
+  width: 380px;
   height: 470px;
   border: 3px solid white;
   border-radius: 12px;
 }
 .tools {
-  width: 430px;
+  width: 380px;
   height: 470px;
   border: 3px solid white;
   border-radius: 12px;
@@ -231,7 +231,7 @@ nav {
 }
 .workEx1 {
   width: 720px;
-  height: 550px;
+  height: 600px;
   border-radius: 45px;
   background-color: #110046;
 }
